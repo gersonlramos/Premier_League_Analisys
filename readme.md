@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes Premier League data to create an optimal Dream Team based on player statistics. The visualization includes a tactical 4-4-2 formation display of the selected players on a soccer pitch using Python and Matplotlib.
+This project analyzes Premier League 2020/2021 data to create an optimal Dream Team based on player statistics. The visualization includes a tactical 4-4-2 formation display of the selected players on a soccer pitch using Python and Matplotlib.
 
 ## Selected Dream Team
 
