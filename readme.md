@@ -32,10 +32,10 @@ FWD: Harry Kane, Mohamed Salah
 
 ```
 Premier_League_Analysis/
-│
-|
-├── dreamteam-premier-july2021-v5.ipynb   # Main Jupyter notebook
-├── README.md
+├── .gitignore
+├── EPL_20_21.csv
+├── dreamteam-premier-july2021-v5.ipynb
+└── readme.md
 ```
 
 ## How to Run
